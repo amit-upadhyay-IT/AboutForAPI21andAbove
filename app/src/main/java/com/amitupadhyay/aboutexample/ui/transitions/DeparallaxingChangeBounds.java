@@ -29,8 +29,6 @@ import android.view.ViewGroup;
 import com.amitupadhyay.aboutexample.ui.widget.ParallaxScrimageView;
 
 
-import static com.amitupadhyay.aboutexample.R.styleable.ParallaxScrimageView;
-
 /**
  * An extension to {@link ChangeBounds} designed to work with {@link ParallaxScrimageView}. This
  * will remove any parallax applied while also performing a {@code ChangeBounds} transition.

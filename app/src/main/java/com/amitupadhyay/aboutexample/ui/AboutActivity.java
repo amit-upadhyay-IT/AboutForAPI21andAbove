@@ -50,7 +50,8 @@ import butterknife.ButterKnife;
 
 import com.amitupadhyay.aboutexample.R;
 
-import com.amitupadhyay.aboutexample.bypass.Bypass;
+import in.uncod.android.bypass.Bypass;
+
 
 import com.amitupadhyay.aboutexample.ui.widget.ElasticDragDismissFrameLayout;
 import com.amitupadhyay.aboutexample.ui.widget.InkPageIndicator;

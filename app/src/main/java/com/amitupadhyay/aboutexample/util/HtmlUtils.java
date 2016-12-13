@@ -28,8 +28,8 @@ import android.text.style.URLSpan;
 import android.text.util.Linkify;
 import android.widget.TextView;
 
-import com.amitupadhyay.aboutexample.bypass.Bypass;
-import com.amitupadhyay.aboutexample.bypass.style.TouchableUrlSpan;
+import in.uncod.android.bypass.Bypass;
+import in.uncod.android.bypass.style.TouchableUrlSpan;
 
 /**
  * Utility methods for working with HTML.

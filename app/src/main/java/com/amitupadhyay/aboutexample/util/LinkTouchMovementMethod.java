@@ -24,7 +24,7 @@ import android.text.method.MovementMethod;
 import android.view.MotionEvent;
 import android.widget.TextView;
 
-import com.amitupadhyay.aboutexample.bypass.style.TouchableUrlSpan;
+import in.uncod.android.bypass.style.TouchableUrlSpan;
 
 /**
  * A movement method that only highlights any touched

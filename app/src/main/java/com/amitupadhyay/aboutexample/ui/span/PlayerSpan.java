@@ -1,13 +1,10 @@
 package com.amitupadhyay.aboutexample.ui.span;
 
-import android.content.Intent;
 import android.content.res.ColorStateList;
 import android.support.annotation.Nullable;
-import android.text.TextUtils;
 import android.view.View;
 
-import com.amitupadhyay.aboutexample.bypass.style.TouchableUrlSpan;
-
+import in.uncod.android.bypass.style.TouchableUrlSpan;
 
 /**
  * A span for marking up a dribbble player

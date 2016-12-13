@@ -30,8 +30,7 @@ import com.bumptech.glide.request.target.SimpleTarget;
 
 import java.lang.ref.WeakReference;
 
-import com.amitupadhyay.aboutexample.bypass.style.ImageLoadingSpan;
-
+import in.uncod.android.bypass.style.ImageLoadingSpan;
 
 /**
  * A target that puts a downloaded image into an ImageSpan in the provided TextView.  It uses a

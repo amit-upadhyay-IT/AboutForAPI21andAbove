@@ -15,7 +15,7 @@
   limitations under the License.
   -->
 
-<io.plaidapp.ui.widget.ForegroundRelativeLayout
+<com.amitupadhyay.aboutexample.ui.widget.ForegroundRelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/lib_item"
     android:layout_width="match_parent"
@@ -41,7 +41,7 @@
         android:padding="@dimen/avatar_padding"
         android:src="@drawable/avatar_placeholder" />
 
-    <io.plaidapp.ui.widget.BaselineGridTextView
+    <com.amitupadhyay.aboutexample.ui.widget.BaselineGridTextView
         android:id="@+id/library_name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -50,7 +50,7 @@
         android:layout_alignParentEnd="true"
         style="@style/Widget.Plaid.Subhead" />
 
-    <io.plaidapp.ui.widget.BaselineGridTextView
+    <com.amitupadhyay.aboutexample.ui.widget.BaselineGridTextView
         android:id="@+id/library_description"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -71,4 +71,4 @@
         android:textColor="@color/text_secondary_dark"
         style="?android:borderlessButtonStyle" />
 
-</io.plaidapp.ui.widget.ForegroundRelativeLayout>
+</com.amitupadhyay.aboutexample.ui.widget.ForegroundRelativeLayout>

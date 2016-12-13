@@ -7,8 +7,7 @@ import android.text.Spanned;
 import android.text.TextUtils;
 import android.widget.TextView;
 
-import com.amitupadhyay.aboutexample.bypass.style.TouchableUrlSpan;
-
+import in.uncod.android.bypass.style.TouchableUrlSpan;
 import okhttp3.HttpUrl;
 
 public class DribbbleUtils {

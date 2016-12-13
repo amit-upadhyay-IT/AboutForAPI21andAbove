@@ -39,8 +39,9 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import com.amitupadhyay.aboutexample.R;
-import com.amitupadhyay.aboutexample.bypass.style.TouchableUrlSpan;
 import com.amitupadhyay.aboutexample.util.FontUtil;
+
+import in.uncod.android.bypass.style.TouchableUrlSpan;
 
 /**
  * A view for displaying text that is will be overlapped by a Floating Action Button (FAB).
