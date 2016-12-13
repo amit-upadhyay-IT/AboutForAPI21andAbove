@@ -1,1 +1,1 @@
-the linkage problem needs to be fixed, properly rebuilding of project using NDK is required.
+Need to sort out java.lang.UnsatisfiedLinkError: No implementation found
