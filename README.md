@@ -1,6 +1,8 @@
+#AboutForAPI21andAbove
+
 Now you can use this project as a library. To use it simply import the library in your android studio project.
 
-** NOTE : here I have used the Butter Knife, so to use this as library you need to do these things : **
+# NOTE : here I have used the Butter Knife, so to use this as library you need to do these things : 
 
 # add the plugin to your buildscript:
 
